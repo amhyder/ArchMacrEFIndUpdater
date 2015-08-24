@@ -7,6 +7,7 @@ This script mounts the rEFInd partition to /mnt, updates all packages via pacman
 **Update Commands Used**
 - sudo pacman -Suy
 - yaourt -Suya
+
 # Prerequisites
 - rEFInd must be installed and located at /dev/sda1 on your machine.
 - You must be running Arch Linux, this will not work with other distros.
